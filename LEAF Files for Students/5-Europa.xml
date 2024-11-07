@@ -827,7 +827,6 @@
 	"id": "https://raw.githubusercontent.com/arionsbox/LEAF/main/LEAF%20Files%20for%20Students/5-Europa.xml?place_annotation_20241107150911571",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-07T20:09:11.571Z",
-	"dcterms:modified": "2024-11-07T20:09:11.571Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/arionsbox",
 		"@type": [
@@ -854,7 +853,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/arionsbox/LEAF/main/LEAF%20Files%20for%20Students/5-Europa.xml?place_annotation_20241107150911571#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[3]/placeName[11]"
+			"rdf:value": "TEI/text/body/div/p[3]/placeName[12]"
 		}
 	},
 	"oa:hasBody": {
@@ -906,7 +905,6 @@
 	"id": "https://raw.githubusercontent.com/arionsbox/LEAF/main/LEAF%20Files%20for%20Students/5-Europa.xml?place_annotation_20241107150937235",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-07T20:09:37.235Z",
-	"dcterms:modified": "2024-11-07T20:09:37.235Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/arionsbox",
 		"@type": [
@@ -933,7 +931,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/arionsbox/LEAF/main/LEAF%20Files%20for%20Students/5-Europa.xml?place_annotation_20241107150937235#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[3]/placeName[12]"
+			"rdf:value": "TEI/text/body/div/p[3]/placeName[13]"
 		}
 	},
 	"oa:hasBody": {
@@ -985,7 +983,6 @@
 	"id": "https://raw.githubusercontent.com/arionsbox/LEAF/main/LEAF%20Files%20for%20Students/5-Europa.xml?place_annotation_20241107150950338",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-07T20:09:50.338Z",
-	"dcterms:modified": "2024-11-07T20:09:50.338Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/arionsbox",
 		"@type": [
@@ -1012,7 +1009,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/arionsbox/LEAF/main/LEAF%20Files%20for%20Students/5-Europa.xml?place_annotation_20241107150950338#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[3]/placeName[13]"
+			"rdf:value": "TEI/text/body/div/p[3]/placeName[14]"
 		}
 	},
 	"oa:hasBody": {
@@ -1064,7 +1061,6 @@
 	"id": "https://raw.githubusercontent.com/arionsbox/LEAF/main/LEAF%20Files%20for%20Students/5-Europa.xml?place_annotation_20241107151059699",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-07T20:10:59.699Z",
-	"dcterms:modified": "2024-11-07T20:10:59.699Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/arionsbox",
 		"@type": [
@@ -1091,7 +1087,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/arionsbox/LEAF/main/LEAF%20Files%20for%20Students/5-Europa.xml?place_annotation_20241107151059699#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[3]/placeName[14]"
+			"rdf:value": "TEI/text/body/div/p[3]/placeName[15]"
 		}
 	},
 	"oa:hasBody": {
@@ -1169,7 +1165,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/arionsbox/LEAF/main/LEAF%20Files%20for%20Students/5-Europa.xml?place_annotation_20241107151211795#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[3]/placeName[17]"
+			"rdf:value": "TEI/text/body/div/p[3]/placeName[18]"
 		}
 	},
 	"oa:hasBody": {
@@ -1247,7 +1243,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/arionsbox/LEAF/main/LEAF%20Files%20for%20Students/5-Europa.xml?place_annotation_20241107151227669#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[3]/placeName[18]"
+			"rdf:value": "TEI/text/body/div/p[3]/placeName[19]"
 		}
 	},
 	"oa:hasBody": {
@@ -1325,7 +1321,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/arionsbox/LEAF/main/LEAF%20Files%20for%20Students/5-Europa.xml?place_annotation_20241107151256756#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[3]/placeName[19]"
+			"rdf:value": "TEI/text/body/div/p[3]/placeName[20]"
 		}
 	},
 	"oa:hasBody": {
@@ -1403,7 +1399,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/arionsbox/LEAF/main/LEAF%20Files%20for%20Students/5-Europa.xml?place_annotation_20241107151511945#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[3]/placeName[21]"
+			"rdf:value": "TEI/text/body/div/p[3]/placeName[22]"
 		}
 	},
 	"oa:hasBody": {
@@ -1481,7 +1477,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/arionsbox/LEAF/main/LEAF%20Files%20for%20Students/5-Europa.xml?place_annotation_20241107151656274#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[3]/placeName[20]/placeName"
+			"rdf:value": "TEI/text/body/div/p[3]/placeName[21]/placeName"
 		}
 	},
 	"oa:hasBody": {
@@ -1559,7 +1555,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/arionsbox/LEAF/main/LEAF%20Files%20for%20Students/5-Europa.xml?place_annotation_20241107151724788#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[3]/placeName[22]"
+			"rdf:value": "TEI/text/body/div/p[3]/placeName[23]"
 		}
 	},
 	"oa:hasBody": {
@@ -1637,7 +1633,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/arionsbox/LEAF/main/LEAF%20Files%20for%20Students/5-Europa.xml?place_annotation_20241107151814002#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[3]/placeName[24]"
+			"rdf:value": "TEI/text/body/div/p[3]/placeName[25]"
 		}
 	},
 	"oa:hasBody": {
@@ -1715,7 +1711,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/arionsbox/LEAF/main/LEAF%20Files%20for%20Students/5-Europa.xml?place_annotation_20241107151908783#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[3]/placeName[25]"
+			"rdf:value": "TEI/text/body/div/p[3]/placeName[26]"
 		}
 	},
 	"oa:hasBody": {
@@ -1793,7 +1789,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/arionsbox/LEAF/main/LEAF%20Files%20for%20Students/5-Europa.xml?place_annotation_20241107151937784#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[3]/placeName[26]"
+			"rdf:value": "TEI/text/body/div/p[3]/placeName[27]"
 		}
 	},
 	"oa:hasBody": {
@@ -1871,7 +1867,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/arionsbox/LEAF/main/LEAF%20Files%20for%20Students/5-Europa.xml?place_annotation_20241107152017218#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[3]/placeName[27]"
+			"rdf:value": "TEI/text/body/div/p[3]/placeName[28]"
 		}
 	},
 	"oa:hasBody": {
@@ -1949,7 +1945,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/arionsbox/LEAF/main/LEAF%20Files%20for%20Students/5-Europa.xml?place_annotation_20241107152036562#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[3]/placeName[28]"
+			"rdf:value": "TEI/text/body/div/p[3]/placeName[29]"
 		}
 	},
 	"oa:hasBody": {
@@ -2028,7 +2024,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/arionsbox/LEAF/main/LEAF%20Files%20for%20Students/5-Europa.xml?place_annotation_20241107152151954#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[3]/placeName[30]"
+			"rdf:value": "TEI/text/body/div/p[3]/placeName[31]"
 		}
 	},
 	"oa:hasBody": {
@@ -2107,7 +2103,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/arionsbox/LEAF/main/LEAF%20Files%20for%20Students/5-Europa.xml?place_annotation_20241107152247693#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[3]/placeName[32]"
+			"rdf:value": "TEI/text/body/div/p[3]/placeName[33]"
 		}
 	},
 	"oa:hasBody": {
@@ -2581,7 +2577,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/arionsbox/LEAF/main/LEAF%20Files%20for%20Students/5-Europa.xml?place_annotation_20241107154401985#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[3]/placeName[16]"
+			"rdf:value": "TEI/text/body/div/p[3]/placeName[17]"
 		}
 	},
 	"oa:hasBody": {
@@ -2598,4 +2594,4 @@
 	}
 }]]>
         </rdf:Description>
-      </rdf:RDF></xenoData></teiHeader> 	<text> 		<body> 			<div><p>EVROPA </p><p/><p>THe countries of <placeName key="Europe" ref="http://www.wikidata.org/entity/Q46" cert="high">Europe<precision match="@ref" precision="high"/></placeName>, as we now call them are <placeName key="Spain" ref="http://www.wikidata.org/entity/Q29" cert="Unknown">Spaine<precision match="@ref" precision="Unknown"/></placeName>, <placeName key="France" ref="http://www.wikidata.org/entity/Q142" cert="high">France<precision match="@ref" precision="high"/></placeName>, <placeName key="Germaine" ref="http://www.wikidata.org/entity/Q990667" cert="Unknown">Germaine<precision match="@ref" precision="Unknown"/></placeName>, <placeName key="Italy" ref="http://www.wikidata.org/entity/Q38">Italie</placeName>, <placeName key="Slavonia" ref="http://dbpedia.org/resource/Slavonia">Slauonia</placeName>, <placeName key="Greece" ref="http://dbpedia.org/resource/Greece">Grzce</placeName>, <placeName key="Hungary" ref="http://www.wikidata.org/entity/Q28">Hungary</placeName>, <placeName key="Poland" ref="http://www.wikidata.org/entity/Q36">Polonia</placeName>, <placeName key="Lithuania" ref="http://dbpedia.org/resource/Lithuania">Lituauia</placeName>, Mofcouie, or more ſignificatly the countrie of <placeName key="Sarmatia" ref="http://www.wikidata.org/entity/Q2528503">Sarmatia</placeName>, and the <placeName key="peninsula" ref="http://www.wikidata.org/entity/Q34763">Peninſula</placeName> in which is <placeName key="Norway" ref="http://www.wikidata.org/entity/Q20">Norwey</placeName>, <placeName key="Sweden" ref="http://www.wikidata.org/entity/Q34">Sweden</placeName>, and <placeName key="Gotland" ref="http://www.wikidata.org/entity/Q1027830">Gothland</placeName>. Among the lies, <placeName key="Great Britain" ref="http://www.wikidata.org/entity/Q23666">Albion</placeName>, conteyning <placeName key="England" ref="http://www.wikidata.org/entity/Q21">England</placeName> &amp; <placeName key="Scotland" ref="http://www.wikidata.org/entity/Q22">Scotland</placeName> is the chiefeſt, next vnto it haue ye <placeName key="Ireland" ref="http://www.wikidata.org/entity/Q27">Ireland</placeName>, then more northerly is <placeName key="Iceland" ref="http://www.wikidata.org/entity/Q189"><placeName key="island" ref="http://www.wikidata.org/entity/Q23442">Iſland</placeName></placeName>, <placeName key="Frisland" ref="http://www.wikidata.org/entity/Q930506">Friſland</placeName>, &amp; laſtly <placeName key="Greenland" ref="http://www.wikidata.org/entity/Q223">Groonland</placeName>, all in the Ocean ſea.In the <placeName key="Mediterranean Sea" ref="http://www.wikidata.org/entity/Q4918">Mediteraneum ſea</placeName> it hath <placeName key="Sicily" ref="http://www.wikidata.org/entity/Q1460">Sicilia</placeName>, <placeName key="Sardinia" ref="http://www.wikidata.org/entity/Q1462">Sardinia</placeName>, <placeName key="Corsica" ref="http://dbpedia.org/resource/Corsica">Corfica</placeName>, Candie, <placeName key="Mallorca" ref="http://www.wikidata.org/entity/Q8828">Maiorica</placeName>, <placeName key="Menorca" ref="http://www.wikidata.org/entity/Q52636">Minorica</placeName>, Gorphum, <placeName key="https://en.wikipedia.org/wiki/Triarchy_of_Negroponte" ref="https://en.wikipedia.org/wiki/Triarchy_of_Negroponte" cert="Unknown">Nigropont</placeName>, and others of leſſe fame, whoſe ſeueral names, and ſituations do appeere in the Mappe. This our <placeName key="Europe" ref="http://www.wikidata.org/entity/Q46">Europe</placeName> (beſides for the <placeName key="Roman Empire" ref="http://www.wikidata.org/entity/Q2277">Romaine Empier</placeName>) honorable throughout all the world hath aboue 28 Chriſtian Kingdoms, yf you adde the 14. Which ſome recon only in <placeName key="Spain" ref="http://www.wikidata.org/entity/Q29">Spaine</placeName>. It is paſſing fertil, naturally temperate, and of a milde aier. And inferior to no other parte in plentie of all kinde of fruit<note type="annotation">fruit</note>, wyne<note type="annotation">wine</note>, and plants<note type="annotation">variation of plants</note>, but to be compared with the moſt excellent, beeing made pleaſant with moſt faire Citties, Villages and Throughfares. And although it be in compas leſſer then the other, yet for the woorthineſſe of the people it is preferred before all other partes of the world, &amp; euer hath bin by all auncient <orgName key="writer" ref="http://www.wikidata.org/entity/Q36180">writers</orgName>, hauing both for the <placeName key="Macedonia" ref="http://www.wikidata.org/entity/Q83958">Empier of the Macedonians</placeName> and mightyneſſe of the <orgName key="Romaines" ref="http://www.wikidata.org/entity/Q28106447">Romaines</orgName> bin moſte renowmed. </p></div> 		</body> 	</text> </TEI>
+      </rdf:RDF></xenoData></teiHeader> 	<text> 		<body> 			<div><p>EVROPA </p><p/><p>THe countries of <placeName key="Europe" ref="http://www.wikidata.org/entity/Q46" cert="high">Europe<precision match="@ref" precision="high"/></placeName>, as we now call them are <placeName key="Spain" ref="http://www.wikidata.org/entity/Q29" cert="Unknown">Spaine<precision match="@ref" precision="Unknown"/></placeName>, <placeName key="France" ref="http://www.wikidata.org/entity/Q142" cert="high">France<precision match="@ref" precision="high"/></placeName>, <placeName key="Germaine" ref="http://www.wikidata.org/entity/Q990667" cert="Unknown">Germaine<precision match="@ref" precision="Unknown"/></placeName>, <placeName key="Italy" ref="http://www.wikidata.org/entity/Q38">Italie</placeName>, <placeName key="Slavonia" ref="http://dbpedia.org/resource/Slavonia">Slauonia</placeName>, <placeName key="Greece" ref="http://dbpedia.org/resource/Greece">Grzce</placeName>, <placeName key="Hungary" ref="http://www.wikidata.org/entity/Q28">Hungary</placeName>, <placeName key="Poland" ref="http://www.wikidata.org/entity/Q36">Polonia</placeName>, <placeName key="Lithuania" ref="http://dbpedia.org/resource/Lithuania">Lituauia</placeName>, <placeName key="Moscow" ref="http://www.wikidata.org/entity/Q649">Mofcouie</placeName>, or more ſignificatly the countrie of <placeName key="Sarmatia" ref="http://www.wikidata.org/entity/Q2528503">Sarmatia</placeName>, and the <placeName key="peninsula" ref="http://www.wikidata.org/entity/Q34763">Peninſula</placeName> in which is <placeName key="Norway" ref="http://www.wikidata.org/entity/Q20">Norwey</placeName>, <placeName key="Sweden" ref="http://www.wikidata.org/entity/Q34">Sweden</placeName>, and <placeName key="Gotland" ref="http://www.wikidata.org/entity/Q1027830">Gothland</placeName>. Among the lies, <placeName key="Great Britain" ref="http://www.wikidata.org/entity/Q23666">Albion</placeName>, conteyning <placeName key="England" ref="http://www.wikidata.org/entity/Q21">England</placeName> &amp; <placeName key="Scotland" ref="http://www.wikidata.org/entity/Q22">Scotland</placeName> is the chiefeſt, next vnto it haue ye <placeName key="Ireland" ref="http://www.wikidata.org/entity/Q27">Ireland</placeName>, then more northerly is <placeName key="Iceland" ref="http://www.wikidata.org/entity/Q189"><placeName key="island" ref="http://www.wikidata.org/entity/Q23442">Iſland</placeName></placeName>, <placeName key="Frisland" ref="http://www.wikidata.org/entity/Q930506">Friſland</placeName>, &amp; laſtly <placeName key="Greenland" ref="http://www.wikidata.org/entity/Q223">Groonland</placeName>, all in the Ocean ſea.In the <placeName key="Mediterranean Sea" ref="http://www.wikidata.org/entity/Q4918">Mediteraneum ſea</placeName> it hath <placeName key="Sicily" ref="http://www.wikidata.org/entity/Q1460">Sicilia</placeName>, <placeName key="Sardinia" ref="http://www.wikidata.org/entity/Q1462">Sardinia</placeName>, <placeName key="Corsica" ref="http://dbpedia.org/resource/Corsica">Corfica</placeName>, Candie, <placeName key="Mallorca" ref="http://www.wikidata.org/entity/Q8828">Maiorica</placeName>, <placeName key="Menorca" ref="http://www.wikidata.org/entity/Q52636">Minorica</placeName>, Gorphum, <placeName key="https://en.wikipedia.org/wiki/Triarchy_of_Negroponte" ref="https://en.wikipedia.org/wiki/Triarchy_of_Negroponte" cert="Unknown">Nigropont</placeName>, and others of leſſe fame, whoſe ſeueral names, and ſituations do appeere in the Mappe. This our <placeName key="Europe" ref="http://www.wikidata.org/entity/Q46">Europe</placeName> (beſides for the <placeName key="Roman Empire" ref="http://www.wikidata.org/entity/Q2277">Romaine Empier</placeName>) honorable throughout all the world hath aboue 28 Chriſtian Kingdoms, yf you adde the 14. Which ſome recon only in <placeName key="Spain" ref="http://www.wikidata.org/entity/Q29">Spaine</placeName>. It is paſſing fertil, naturally temperate, and of a milde aier. And inferior to no other parte in plentie of all kinde of fruit<note type="annotation">fruit</note>, wyne<note type="annotation">wine</note>, and plants<note type="annotation">variation of plants</note>, but to be compared with the moſt excellent, beeing made pleaſant with moſt faire Citties, Villages and Throughfares. And although it be in compas leſſer then the other, yet for the woorthineſſe of the people it is preferred before all other partes of the world, &amp; euer hath bin by all auncient <orgName key="writer" ref="http://www.wikidata.org/entity/Q36180">writers</orgName>, hauing both for the <placeName key="Macedonia" ref="http://www.wikidata.org/entity/Q83958">Empier of the Macedonians</placeName> and mightyneſſe of the <orgName key="Romaines" ref="http://www.wikidata.org/entity/Q28106447">Romaines</orgName> bin moſte renowmed. </p></div> 		</body> 	</text> </TEI>
