@@ -476,4 +476,241 @@
 	}
 }]]>
         </rdf:Description>
-      </rdf:RDF></xenoData></teiHeader> 	<text> 		<body> 			<div><p>EVROPA </p><p/><p>THe countries of <placeName key="Europe" ref="http://www.wikidata.org/entity/Q46" cert="high">Europe<precision match="@ref" precision="high"/></placeName>, as we now call them are <placeName key="Spain" ref="http://www.wikidata.org/entity/Q29" cert="Unknown">Spaine<precision match="@ref" precision="Unknown"/></placeName>, <placeName key="France" ref="http://www.wikidata.org/entity/Q142" cert="high">France<precision match="@ref" precision="high"/></placeName>, <placeName key="Germaine" ref="http://www.wikidata.org/entity/Q990667" cert="Unknown">Germaine<precision match="@ref" precision="Unknown"/></placeName>, <placeName key="Italy" ref="http://www.wikidata.org/entity/Q38">Italie</placeName>, <placeName key="Slavonia" ref="http://dbpedia.org/resource/Slavonia">Slauonia</placeName>, Grzce, Hungary, Polonia, Lituauia, Mofcouie, or more ſignificatly the countrie of Sarmatia, and the Peninſula in which is Norwey, Sweden, and Gothland. Among the lies, Albion, conteyning England &amp; Scotland is the chiefeſt, next vnto it haue ye Ireland, then more northerly is Iſland, Friſland, &amp; laſtly Groonland, all in the Ocean ſea.In the Mediteraneum ſea it hath Sicilia, Sardinia, Corfica, Candie, Maiorica, Minorica, Gorphum, Nigropont, and others of leſſe fame, whoſe ſeueral names, and ſituations do appeere in the Mappe.This our Europe (beſides for the Romaine Empier) honorable throughout all the world hath aboue 28 Chriſtian Kingdoms, yf you adde the 14. Which ſome recon only in Spaine. It is paſſing fertil, naturally temperate, and of a milde aier. And inferior to no other parte in plentie of all kinde of fruit, wyne, and plants, but to be compared with the moſt excellent, beeing made pleaſant with moſt faire Citties, Villages and Throughfares. And although it be in compas leſſer then the other, yet for the woorthineſſe of the people it is preferred before all other partes of the world, &amp; euer hath bin by all auncient writers, hauing both for the Empier of the Macedonians and mightyneſſe of the Romaines bin moſte renowmed. </p></div> 		</body> 	</text> </TEI>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/arionsbox/LEAF/main/LEAF%20Files%20for%20Students/5-Europa.xml?place_annotation_20241107150534415",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-11-07T20:05:34.415Z",
+	"dcterms:modified": "2024-11-07T20:05:34.415Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/arionsbox",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Anthony Pintado"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/arionsbox/LEAF/main/LEAF%20Files%20for%20Students/5-Europa.xml?place_annotation_20241107150534415#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/arionsbox/LEAF/main/LEAF%20Files%20for%20Students/5-Europa.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/arionsbox/LEAF/main/LEAF%20Files%20for%20Students/5-Europa.xml?place_annotation_20241107150534415#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p[3]/placeName[7]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:RealPlace",
+		"@id": "http://dbpedia.org/resource/Greece",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/arionsbox/LEAF/main/LEAF%20Files%20for%20Students/5-Europa.xml?place_annotation_20241107150602735",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-11-07T20:06:02.735Z",
+	"dcterms:modified": "2024-11-07T20:06:02.735Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/arionsbox",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Anthony Pintado"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/arionsbox/LEAF/main/LEAF%20Files%20for%20Students/5-Europa.xml?place_annotation_20241107150602735#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/arionsbox/LEAF/main/LEAF%20Files%20for%20Students/5-Europa.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/arionsbox/LEAF/main/LEAF%20Files%20for%20Students/5-Europa.xml?place_annotation_20241107150602735#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p[3]/placeName[8]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:RealPlace",
+		"@id": "http://www.wikidata.org/entity/Q28",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/arionsbox/LEAF/main/LEAF%20Files%20for%20Students/5-Europa.xml?place_annotation_20241107150620650",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-11-07T20:06:20.650Z",
+	"dcterms:modified": "2024-11-07T20:06:20.650Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/arionsbox",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Anthony Pintado"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/arionsbox/LEAF/main/LEAF%20Files%20for%20Students/5-Europa.xml?place_annotation_20241107150620650#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/arionsbox/LEAF/main/LEAF%20Files%20for%20Students/5-Europa.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/arionsbox/LEAF/main/LEAF%20Files%20for%20Students/5-Europa.xml?place_annotation_20241107150620650#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p[3]/placeName[9]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:RealPlace",
+		"@id": "http://www.wikidata.org/entity/Q36",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
+}]]>
+        </rdf:Description>
+      </rdf:RDF></xenoData></teiHeader> 	<text> 		<body> 			<div><p>EVROPA </p><p/><p>THe countries of <placeName key="Europe" ref="http://www.wikidata.org/entity/Q46" cert="high">Europe<precision match="@ref" precision="high"/></placeName>, as we now call them are <placeName key="Spain" ref="http://www.wikidata.org/entity/Q29" cert="Unknown">Spaine<precision match="@ref" precision="Unknown"/></placeName>, <placeName key="France" ref="http://www.wikidata.org/entity/Q142" cert="high">France<precision match="@ref" precision="high"/></placeName>, <placeName key="Germaine" ref="http://www.wikidata.org/entity/Q990667" cert="Unknown">Germaine<precision match="@ref" precision="Unknown"/></placeName>, <placeName key="Italy" ref="http://www.wikidata.org/entity/Q38">Italie</placeName>, <placeName key="Slavonia" ref="http://dbpedia.org/resource/Slavonia">Slauonia</placeName>, <placeName key="Greece" ref="http://dbpedia.org/resource/Greece">Grzce</placeName>, <placeName key="Hungary" ref="http://www.wikidata.org/entity/Q28">Hungary</placeName>, <placeName key="Poland" ref="http://www.wikidata.org/entity/Q36">Polonia</placeName>, Lituauia, Mofcouie, or more ſignificatly the countrie of Sarmatia, and the Peninſula in which is Norwey, Sweden, and Gothland. Among the lies, Albion, conteyning England &amp; Scotland is the chiefeſt, next vnto it haue ye Ireland, then more northerly is Iſland, Friſland, &amp; laſtly Groonland, all in the Ocean ſea.In the Mediteraneum ſea it hath Sicilia, Sardinia, Corfica, Candie, Maiorica, Minorica, Gorphum, Nigropont, and others of leſſe fame, whoſe ſeueral names, and ſituations do appeere in the Mappe.This our Europe (beſides for the Romaine Empier) honorable throughout all the world hath aboue 28 Chriſtian Kingdoms, yf you adde the 14. Which ſome recon only in Spaine. It is paſſing fertil, naturally temperate, and of a milde aier. And inferior to no other parte in plentie of all kinde of fruit, wyne, and plants, but to be compared with the moſt excellent, beeing made pleaſant with moſt faire Citties, Villages and Throughfares. And although it be in compas leſſer then the other, yet for the woorthineſſe of the people it is preferred before all other partes of the world, &amp; euer hath bin by all auncient writers, hauing both for the Empier of the Macedonians and mightyneſſe of the Romaines bin moſte renowmed. </p></div> 		</body> 	</text> </TEI>
